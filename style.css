@@ -276,3 +276,7 @@ body.dark-mode .greeting-card {
         font-size: 22px;
     }
 }
+.chart-card canvas {
+    width: 100% !important;
+    height: 350px !important;
+}
